@@ -1,0 +1,15 @@
+/Users/conyoung/RiderProjects/Mission3Assignment/bin/Debug/net8.0/Mission3Assignment
+/Users/conyoung/RiderProjects/Mission3Assignment/bin/Debug/net8.0/Mission3Assignment.deps.json
+/Users/conyoung/RiderProjects/Mission3Assignment/bin/Debug/net8.0/Mission3Assignment.runtimeconfig.json
+/Users/conyoung/RiderProjects/Mission3Assignment/bin/Debug/net8.0/Mission3Assignment.dll
+/Users/conyoung/RiderProjects/Mission3Assignment/bin/Debug/net8.0/Mission3Assignment.pdb
+/Users/conyoung/RiderProjects/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/conyoung/RiderProjects/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.AssemblyInfoInputs.cache
+/Users/conyoung/RiderProjects/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.AssemblyInfo.cs
+/Users/conyoung/RiderProjects/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.csproj.CoreCompileInputs.cache
+/Users/conyoung/RiderProjects/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.sourcelink.json
+/Users/conyoung/RiderProjects/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.dll
+/Users/conyoung/RiderProjects/Mission3Assignment/obj/Debug/net8.0/refint/Mission3Assignment.dll
+/Users/conyoung/RiderProjects/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.pdb
+/Users/conyoung/RiderProjects/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.genruntimeconfig.cache
+/Users/conyoung/RiderProjects/Mission3Assignment/obj/Debug/net8.0/ref/Mission3Assignment.dll
